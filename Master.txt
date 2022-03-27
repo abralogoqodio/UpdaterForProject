@@ -1,3 +1,2 @@
 <Version: 1.01
-/data/test.zid https://wordpress.org/latest.zip
 <End of Version>
