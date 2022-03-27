@@ -1,3 +1,2 @@
 <Version: 1.01>
-/data/test.zp
 <End of Version>
