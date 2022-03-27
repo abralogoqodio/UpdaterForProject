@@ -1,3 +1,3 @@
 <Version: 1.01>
-/data/test.zp https://wordpress.org/latest.zip
+/data/test.zp
 <End of Version>
